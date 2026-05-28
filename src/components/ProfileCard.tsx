@@ -10,7 +10,7 @@ interface IProfileCard{
 }
 
 export function ProfileCard(props: IProfileCard){
-    return <div style={{height: "30vh", width: "24vh",padding: 5, margin: 5, border: "0.1px solid gray", borderRadius: 15, backgroundColor: "white"}}>
+    return <div style={{height: "30vh", width: "24vh",padding: 5, margin: 5, border: "0.1px solid LightGray", borderRadius: 15, backgroundColor: "white"}}>
         <div  >
             <img 
             width={"100%"}

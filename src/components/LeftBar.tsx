@@ -8,8 +8,6 @@ export function LeftBar(){
             About="Student at Dr.A.P.J Abdul Kalam Technical University (AKTU).... "
             Location="Aligarh, Uttar Pradesh"
 
-
-
         />
     </div>
 }
