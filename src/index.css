@@ -1,3 +1,11 @@
+body{
+    background-color: rgb(229, 229, 224);
+}
+
 .TopbarElements:hover{
     color: black ;
+}
+
+.SearchBar:hover{
+    background-color: rgb(243, 241, 241);
 }
