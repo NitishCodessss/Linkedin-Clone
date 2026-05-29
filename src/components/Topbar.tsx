@@ -11,14 +11,14 @@ export function Topbar(){
 
                     </div>
                     <div style={{display: "flex"}}>
-            < TopbarElement title={"Home"} icon={<House />} selected={false}/>
+            < TopbarElement title={"Home"} icon={<House />} selected={true}/>
             < TopbarElement title={"My networks"} icon={<Workflow />} selected={false}/>
             < TopbarElement title={"Jobs"} icon={<BriefcaseBusiness />} selected={false}/>
             < TopbarElement title={"Messaging"} icon={<MessageCircleMore />} selected={false}/>
             < TopbarElement title={"Notifications"} icon={<Bell />} selected={false}/>
 
 
-            < TopbarElementsWithDropdown title={"Nitish Kumar"} icon = {<User />} selected={true}/>
+            < TopbarElementsWithDropdown title={"Nitish Kumar"} icon = {<User />} selected={false}/>
             < TopbarElementsWithDropdown title={"For Businesses"} icon={<Grid3x3 />}selected={false}/>
         </div>        
     </div>
