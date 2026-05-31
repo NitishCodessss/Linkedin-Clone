@@ -9,3 +9,7 @@ body{
 .SearchBar:hover{
     background-color: rgb(243, 241, 241);
 }
+.searchBox:hover{
+    background-color: #d1d6d549;
+    
+}

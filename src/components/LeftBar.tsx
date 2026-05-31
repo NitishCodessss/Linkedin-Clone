@@ -7,7 +7,7 @@ export function LeftBar(){
             Name="Nitish Kumar"
             About="Student at Dr.A.P.J Abdul Kalam Technical University (AKTU).... "
             Location="Aligarh, Uttar Pradesh"
-
+            Organization="Dr.A.P.J Abdul Kalam Technical University"
         />
     </div>
 }

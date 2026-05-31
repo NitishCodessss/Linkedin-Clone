@@ -5,7 +5,7 @@ interface IProfileCard{
     About: String;
     Location: String;
     Organization: String;
-    OrgImage: any; 
+    OrgImage?: any; 
 
 }
 
